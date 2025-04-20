@@ -1,2 +1,2 @@
 # DeFi
-DeFi smart contracts
+DeFi smart contracts. Project coming soon.
