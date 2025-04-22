@@ -1,2 +1,2 @@
 # DeFi
-DeFi smart contract. The project is coming soon.
+DeFi smart contract. The project is coming soon. MIT License.
