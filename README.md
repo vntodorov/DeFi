@@ -1,2 +1,2 @@
 # DeFi
-DeFi (Decentralized finance) smart contract. The project is coming soon. MIT License.
+DeFi (Decentralized finance) ETH smart contract. The project is coming soon. MIT License.
